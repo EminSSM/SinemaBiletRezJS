@@ -1,2 +1,2 @@
 # SinemaBiletRezJS
- Javascript ile sinema bilet rezervasyon uygulaması
+ HTML,CSS, Javascript ile sinema bilet rezervasyon uygulaması
